@@ -1,8 +1,9 @@
 first
-<<<<<<< HEAD
-second D
-=======
-second C
->>>>>>> 47e65f8523672d34c23f6053765d02c7fab89259
+second E
 third
+<<<<<<< HEAD
+fourth
+=======
+fourth W
 
+>>>>>>> 2c3ce6d9d5cbb09d158be855531c720aa93c9825
